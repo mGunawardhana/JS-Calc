@@ -30,14 +30,21 @@ body {
     overflow: hidden;
 }
 
-form input{
+/* calculator display set up */
+form input {
     width: 100%;
     height: 150px;
     border: none;
-    border-radius:12px;
+    border-radius: 12px;
     font-size: 2rem;
     padding: 1rem;
     color: white;
     background: black;
+
+    /* text starting direction changed */
     text-align: right;
+
+    /* disabling calculator display click and and typing option */
+    pointer-events: none;
 }
+
