@@ -80,3 +80,13 @@ button{
     background-color: gray;
     color: black;
 }
+
+/* adding colours to equal btn */
+.btn-equal{
+    background-color:#3CCF4E;
+}
+
+/* adding colours to clear btn */
+.btn-clear{
+    background-color:#D61C4E;
+}
