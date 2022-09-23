@@ -69,4 +69,10 @@ button{
     cursor: pointer;
 }
 
+/* colours set up for operators */
+.btn-yellow{
+    background-color:#F3BA2F ;
+    color: white;
+}
+
 
