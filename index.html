@@ -9,9 +9,27 @@
 <head>
     <meta charset="UTF-8">
     <title>Simple Calculator</title>
-    <link rel="stylesheet" href="style.css">
+    <link href="style.css" rel="stylesheet">
 </head>
 <body>
+
+<div class="calculator">
+    <form>
+        <label>
+<!-- calculator display -->
+            <input class="screen" type="text">
+        </label>
+    </form>
+
+    <div class="button">
+<!-- four buttons for operations -->
+        <button class="btn btn-btn-yellow" data-num="*" type="button">*</button>
+        <button class="btn btn-btn-yellow" data-num="/" type="button">/</button>
+        <button class="btn btn-btn-yellow" data-num="-" type="button">-</button>
+        <button class="btn btn-btn-yellow" data-num="+" type="button">+</button>
+    </div>
+
+</div>
 
 <script src="js-for-calc.js"></script>
 </body>
