@@ -13,11 +13,15 @@
 body {
     min-height: 100vh;
     background: white;
+    /* items getting on center */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* styles for calculator width height and borders */
-.calculator{
+.calculator {
     width: 300px;
     height: 500px;
-    box-shadow: 4px 4px 30px rgba(0,0,0,0.3);
+    box-shadow: 4px 4px 30px rgba(0, 0, 0, 0.3);
 }
