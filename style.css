@@ -48,3 +48,25 @@ form input {
     pointer-events: none;
 }
 
+/* spacing buttons and setup their margins */
+.buttons{
+display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+/* giving styles for buttons */
+button{
+    flex: 0 0 22%;
+    margin: 5px 0;
+    border: 1px solid #000;
+    width: 60px;
+    height: 52px;
+    font-size: 22px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
