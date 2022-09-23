@@ -75,4 +75,8 @@ button{
     color: white;
 }
 
-
+/* colours set up for numbers */
+.btn-grey{
+    background-color: gray;
+    color: black;
+}
