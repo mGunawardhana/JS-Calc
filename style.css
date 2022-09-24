@@ -93,3 +93,17 @@ button{
 .btn-clear{
     background-color:#D61C4E;
 }
+
+#octa-cat{
+    position: absolute;
+    width: 400px;
+    margin-left: -31%;
+    height: 400px;
+}
+
+#prof-cat{
+    position: absolute;
+    width: 400px;
+    margin-left: 30%;
+    height: 400px;
+}
