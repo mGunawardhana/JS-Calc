@@ -39,7 +39,7 @@ form input {
     font-size: 2rem;
     padding: 1rem;
     color: white;
-    background: black;
+    background: #2c3e50;
 
     /* text starting direction changed */
     text-align: right;
@@ -54,30 +54,33 @@ display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 15px;
+    background-color: white;
 }
 
 /* giving styles for buttons */
 button{
     flex: 0 0 22%;
     margin: 5px 0;
-    border: 1px solid #000;
+    border:white;
     width: 60px;
     height: 52px;
     font-size: 22px;
     font-weight: 600;
     border-radius: 5px;
     cursor: pointer;
+    box-shadow: 0 0 40px 2px rgba(17, 9, 9, 0.27);
 }
 
 /* colours set up for operators */
-.btn-yellow{
-    background-color:#F3BA2F ;
+.btn-purple{
+    background-color:#9C19E0 ;
     color: white;
+    box-shadow: 0 0 40px 2px rgba(17, 9, 9, 0.27);
 }
 
 /* colours set up for numbers */
 .btn-grey{
-    background-color: gray;
+    background-color: white;
     color: black;
 }
 
