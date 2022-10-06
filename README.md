@@ -23,6 +23,6 @@
 
 <div align="center">
 
-## © 2022 mGunawardhana,Inc. All rights reserved.
+## © 2022 ɢᴜɴᴀᴡᴀʀᴅʜᴀɴᴀ,ɪɴᴄ. ᴀʟʟ ʀɪɢʜᴛꜱ ʀᴇꜱᴇʀᴠᴇᴅ.
 
 </div>
